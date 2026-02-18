@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
+
+PackageIdentifier: mpv.mpv
+PackageVersion: 0.41.0
+PackageLocale: en-US
+Publisher: mpv
+PackageName: mpv
+License:  GPL-2.0+ / LGPL-2.1+ / GPL-3.0 (optional)
+ShortDescription: 🎥 Command line media player
+Description:  mpv is a free (as in freedom) media player for the command line. It supports a wide variety of media file formats, audio and video codecs, and subtitle types.
+ManifestType: defaultLocale
+ManifestVersion: 1.12.0
+PackageUrl: https://mpv.io/
+ReleaseNotesUrl: https://github.com/mpv-player/mpv/releases/tag/v0.41.0
